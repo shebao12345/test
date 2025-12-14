@@ -2,10 +2,7 @@
   <h1 align="center">AAAAA: BBB</h1>
   <p align="center">
   YYY*, ZZZ*, SC, VF
-  </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2509.19297">Paper</a> | <a href="https://lhmd.top/volsplat">Project Page</a> | <a href="https://github.com/ziplab/VolSplat">Code</a> | <a href="https://huggingface.co/lhmd/VolSplat">Models</a> </h3>
-  <div align="center"></div>
-</p>
+
 
 
 <p align="center">
@@ -32,10 +29,10 @@ Pixel-aligned feed-forward 3DGS methods suffer from two primary limitations: 1) 
 If you find our work useful for your research, please consider citing us:
 
 ```bibtex
-@article{wang2025volsplat,
-  title={VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction},
-  author={Wang, Weijie and Chen, Yeqing and Zhang, Zeyu and Liu, Hengyu and Wang, Haoxiao and Feng, Zhiyuan and Qin, Wenkang and Zhu, Zheng and Chen, Donny Y. and Zhuang, Bohan},
-  journal={arXiv preprint arXiv:2509.19297},
+@article{XXX,
+  title={VVVV},
+  author={WWWW},
+  journal={arXiv preprint arXiv:114514},
   year={2025}
 }
 ```
@@ -44,4 +41,4 @@ If you have any questions, please create an issue on this repository or contact 
 
 ## Acknowledgements
 
-This project is developed with [vggt](https://github.com/facebookresearch/vggt). We thank the original authors for their excellent work.
+This project is developed with [vggt](https://github.com/facebookresearch/114514). We thank the original authors for their excellent work.
